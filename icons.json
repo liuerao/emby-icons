@@ -1,7 +1,12 @@
 {
-  "name": "Zzzの方形Emby图标",
+  "name": "Emby图标",
   "description": "",
   "icons": [
+    {
+      "name": "Emos",
+      "url": "https://biu.200038.xyz/2026/01/06/761283.webp"
+    },
+    
     {
       "name": "SaturDay.Lite",
       "url": "https://cdn.picui.cn/vip/2026/01/04/695959d7a1e28.png"
